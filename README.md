@@ -1,7 +1,7 @@
 # Brazil Gas Prices Regression
 > The National Agency of Petroleum, Natural Gas and Bio fuels (ANP in Portuguese) releases weekly reports of gas, diesel and other fuels prices used in transportation across the country. These datasets bring the mean value per liter, number of gas stations analyzed and other information grouped by regions and states across the country.
 
->### **Featurs in Dataset**
+## **Featurs in Dataset**
 
 Unnamed: 0 : Unique ID
 
@@ -43,3 +43,5 @@ COEF DE VARIAÇÃO DISTRIBUIÇÃO : Distribution's coefficient of variation
 MÊS : Month
 
 ANO : Year
+
+>For more information about dataset and problem : https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil
