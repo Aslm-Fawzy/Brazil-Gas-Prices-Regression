@@ -5,14 +5,14 @@
 
 ## **Featurs in Dataset**
 
-Unnamed: 0 : Unique ID
-
-DATA INICIAL : First day of analyses in the week
-
-DATA FINAL : Last day of analyses in the week
-
-REGIÃO : Macro region
-ESTADO : State
+>Unnamed: 0 : Unique ID
+>
+>DATA INICIAL : First day of analyses in the week
+>
+>DATA FINAL : Last day of analyses in the week
+>
+>REGIÃO : Macro region
+?ESTADO : State
 
 PRODUTO : Kind of Product
 
